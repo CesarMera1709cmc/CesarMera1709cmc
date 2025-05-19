@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un apasionado de la tecnología con enfoque en desarrollo de software, algoritmos eficientes y diseño de sistemas. Me destaco por mi capacidad de resolver problemas, trabajar en equipo y aprender rápidamente nuevas herramientas. Actualmente soyayudante de Fundamentos de Programación en ESPOL lo que fortalece mis habilidades interpersonales y de adaptación.
+Soy un apasionado de la tecnología con enfoque en desarrollo de software, algoritmos eficientes y diseño de sistemas. Me destaco por mi capacidad de resolver problemas, trabajar en equipo y aprender rápidamente nuevas herramientas. Actualmente soy ayudante de Fundamentos de Programación en ESPOL lo que fortalece mis habilidades interpersonales y de adaptación.
 
 ---
 
@@ -48,7 +48,8 @@ Soy un apasionado de la tecnología con enfoque en desarrollo de software, algor
 ---
 
 ## 🧪 Experiencia Profesional y Proyectos Académicos
-
+- 👨‍🏫 **Ayudante de Cátedra – Fundamentos de Programación, ESPOL (2024 – actualidad)**  
+  Apoyo en clases prácticas, resolución de dudas, corrección de tareas y guía a estudiantes en lógica de programación con C y Python.
 - 👨‍🍳 **Restaurant Attendant – Hilton Garden Inn, EE.UU. (2025)**  
   Participación en programa Work & Travel. Fortalecimiento de habilidades blandas y trabajo en ambientes multiculturales.
 
@@ -60,19 +61,14 @@ Soy un apasionado de la tecnología con enfoque en desarrollo de software, algor
 
 ---
 
-## 🏆 Certificaciones y Reconocimientos
-
-- ✅ Curso de Estructuras de Datos Avanzadas – Platzi
-- ✅ Certificación en Git y GitHub – FreeCodeCamp
----
 
 ## 📬 Contáctame
 
 Estoy abierto a oportunidades de prácticas, trabajos colaborativos y proyectos freelance.
 
 - 📧 cesar.mera.castro@espol.edu.ec 
-- 🌐 [LinkedIn](https://linkedin.com/in/)  
-- 💼 [GitHub](https://github.com/tuusuario)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/cesar-mera/)  
+- 💼 [GitHub](https://github.com/CesarMera1709cmc)
 
 ---
 
