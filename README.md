@@ -33,10 +33,12 @@ Soy un apasionado de la tecnología con enfoque en desarrollo de software, algor
 ---
 
 ### 🎮 VIGRO (Visibility Graph Robot)
-**Descripción**: Simulador de Planificación Óptima de Rutas con Grafo de Visibilidad para Robots Móviles en Entornos con Obstáculos. 
-**Tecnologías**: Java, POO  
-🔗 [Repositorio]((https://github.com/CesarMera1709cmc/VIGRO-Visibility_Graph_Robot-))
-![Pantalla Principal](https://postimg.cc/VSq9qxB6)
+
+**Descripción**:  Simulador de Planificación Óptima de Rutas con Grafo de Visibilidad para Robots Móviles en Entornos con Obstáculos.
+**Tecnologías**: Java  
+🔗 [Repositorio](https://github.com/CesarMera1709cmc/VIGRO-Visibility_Graph_Robot-)  
+[![Imagen-de-Whats-App-2025-05-19-a-las-03-38-08-751e4948.jpg](https://i.postimg.cc/pd70HxmD/Imagen-de-Whats-App-2025-05-19-a-las-03-38-08-751e4948.jpg)](https://postimg.cc/VSq9qxB6)
+
 ---
 
 ### 📊 RSA Encryption/Decryption Tool
