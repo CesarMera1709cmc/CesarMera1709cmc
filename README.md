@@ -3,22 +3,21 @@
 **Desarrollador de Software | Estudiante de Ingeniería en Computación**  
 📍 Guayaquil, Ecuador  
 🎓 Escuela Superior Politécnica del Litoral (ESPOL) — 6to semestre  
-📧 cesar.tucorreo@email.com | [LinkedIn](https://linkedin.com/in/tuusuario) | [GitHub](https://github.com/tuusuario)
+📧 cesar.mera.castro@gmail.com | [LinkedIn](https://www.linkedin.com/in/cesar-mera/) | [GitHub](https://github.com/CesarMera1709cmc)
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy un apasionado de la tecnología con enfoque en desarrollo de software, algoritmos eficientes y diseño de sistemas. Me destaco por mi capacidad de resolver problemas, trabajar en equipo y aprender rápidamente nuevas herramientas. Actualmente participo en un programa **Work and Travel** en EE.UU., lo que fortalece mis habilidades interpersonales y de adaptación.
+Soy un apasionado de la tecnología con enfoque en desarrollo de software, algoritmos eficientes y diseño de sistemas. Me destaco por mi capacidad de resolver problemas, trabajar en equipo y aprender rápidamente nuevas herramientas. Actualmente soyayudante de Fundamentos de Programación en ESPOL lo que fortalece mis habilidades interpersonales y de adaptación.
 
 ---
 
 ## 🧠 Habilidades Técnicas
 
-- **Lenguajes**: Java, Python, C, JavaScript, HTML, CSS  
-- **Frameworks**: React, Node.js, Flask, Spring Boot  
-- **Bases de Datos**: MySQL, PostgreSQL, MongoDB  
-- **Herramientas**: Git, GitHub, VSCode, Figma, Docker  
+- **Lenguajes**: Java, Javafx, Python, C, HTML, CSS  
+- **Bases de Datos**: MySQL, MongoDB  
+- **Herramientas**: Git, GitHub, VSCode, Figma
 - **Otros**: Arduino, Diseño de interfaces (IHC), Arquitectura de software
 
 ---
@@ -28,28 +27,23 @@ Soy un apasionado de la tecnología con enfoque en desarrollo de software, algor
 ### 🩺 Sistema de Gestión de Consultas Médicas
 **Descripción**: Plataforma para registrar pacientes, doctores, tratamientos y medicamentos, cumpliendo con relaciones complejas en base de datos.  
 **Tecnologías**: Java, MySQL, JDBC  
-🔗 [Repositorio](https://github.com/tuusuario/gestion-medica)
+🔗 [Repositorio](https://github.com/paulethTandazo/Bases_Hospital_G3)
+![Pantalla del Paciente](https://i.postimg.cc/ZqJ4TqDN/vista-Doctor.png)
 
 ---
 
-### 🎮 Simulador de Juego por Consola
-**Descripción**: Juego de aventura basado en texto con diseño orientado a objetos y lógica de eventos.  
+### 🎮 VIGRO (Visibility Graph Robot)
+**Descripción**: Simulador de Planificación Óptima de Rutas con Grafo de Visibilidad para Robots Móviles en Entornos con Obstáculos. 
 **Tecnologías**: Java, POO  
-🔗 [Repositorio](https://github.com/tuusuario/juego-aventura)
-
+🔗 [Repositorio]((https://github.com/CesarMera1709cmc/VIGRO-Visibility_Graph_Robot-))
+![Pantalla Principal](https://postimg.cc/VSq9qxB6)
 ---
 
-### 📊 Comparación de Algoritmos de Factorial
-**Descripción**: Proyecto para medir tiempos de ejecución de funciones recursivas e iterativas, con visualización de resultados.  
-**Tecnologías**: Java, JFreeChart  
-🔗 [Repositorio](https://github.com/tuusuario/algoritmos-factorial)
+### 📊 RSA Encryption/Decryption Tool
+**Descripción**: Este proyecto es una herramienta de cifrado y descifrado basada en el algoritmo RSA. Permite a los usuarios cifrar mensajes y almacenarlos en archivos, así como descifrar mensajes previamente cifrados.
+**Tecnologías**: Phyton, tkinter  
+🔗 [Repositorio](https://github.com/DanRCM/Discrete_mathematics)
 
----
-
-### 💻 Portafolio Web Personal
-**Descripción**: Página web profesional con mis proyectos, contacto y biografía.  
-**Tecnologías**: HTML, CSS, JavaScript, GitHub Pages  
-🔗 [Ver Sitio](https://tuusuario.github.io/)
 
 ---
 
@@ -70,16 +64,14 @@ Soy un apasionado de la tecnología con enfoque en desarrollo de software, algor
 
 - ✅ Curso de Estructuras de Datos Avanzadas – Platzi
 - ✅ Certificación en Git y GitHub – FreeCodeCamp
-- 🥇 Finalista en Hackathon ESPOL 2024 – Proyecto de salud inteligente
-
 ---
 
 ## 📬 Contáctame
 
 Estoy abierto a oportunidades de prácticas, trabajos colaborativos y proyectos freelance.
 
-- 📧 cesar.tucorreo@email.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/tuusuario)  
+- 📧 cesar.mera.castro@espol.edu.ec 
+- 🌐 [LinkedIn](https://linkedin.com/in/)  
 - 💼 [GitHub](https://github.com/tuusuario)
 
 ---
